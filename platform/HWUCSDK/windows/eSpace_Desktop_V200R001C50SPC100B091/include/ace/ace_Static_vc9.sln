@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACE_Static", "ACE_Static_vc9.vcproj", "{69A052F0-FECA-1BAD-6757-8A6348D31D68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QoS_Static", "QoS\QoS_Static_vc9.vcproj", "{BFA052E2-FECA-1BAD-7781-8A631D6AEF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A052F0-FECA-1BAD-6757-8A6348D31D68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69A052F0-FECA-1BAD-6757-8A6348D31D68}.Debug|Win32.Build.0 = Debug|Win32
+		{69A052F0-FECA-1BAD-6757-8A6348D31D68}.Release|Win32.ActiveCfg = Release|Win32
+		{69A052F0-FECA-1BAD-6757-8A6348D31D68}.Release|Win32.Build.0 = Release|Win32
+		{BFA052E2-FECA-1BAD-7781-8A631D6AEF70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFA052E2-FECA-1BAD-7781-8A631D6AEF70}.Debug|Win32.Build.0 = Debug|Win32
+		{BFA052E2-FECA-1BAD-7781-8A631D6AEF70}.Release|Win32.ActiveCfg = Release|Win32
+		{BFA052E2-FECA-1BAD-7781-8A631D6AEF70}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

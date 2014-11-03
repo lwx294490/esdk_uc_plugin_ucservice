@@ -1,0 +1,33 @@
+SCC = This is a Source Code Control file
+
+[ace.sln]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA
+
+[ACE.vcproj]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA
+
+[ace_Static.sln]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA
+
+[ACE_Static.vcproj]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA
+
+[ace_vc8.sln]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA
+
+[ACE_vc8.vcproj]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA
+
+[ace_WinCE.sln]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA
+
+[ACE_WinCE.vcproj]
+SCC_Aux_Path = "\\nkgvss02-db\NY_GS_VSS\ECS"
+SCC_Project_Name = "$/ecs/client/sdk/SDK/ecs_client_sdk/include/ace", AKJAAAAA

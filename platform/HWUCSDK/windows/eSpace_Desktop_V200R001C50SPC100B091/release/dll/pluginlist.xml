@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluginlist>
+  <plugin>
+    <name>login</name>
+    <version>1.0.0</version>
+  </plugin>
+  <plugin>
+    <name>privateaddrbook</name>
+    <version>1.0.0</version>
+  </plugin>
+  <plugin>
+    <name>p2pim</name>
+    <version>1.0.0</version>
+  </plugin>
+  <plugin>
+    <name>fixedgroup</name>
+    <version>1.0.0</version>
+  </plugin>
+  <plugin>
+    <name>audiocall</name>
+    <version>1.0.0</version>
+  </plugin>
+  <plugin>
+    <name>tempgroup</name>
+    <version>1.0.0</version>
+  </plugin>
+</pluginlist>
